@@ -1,4 +1,6 @@
 #E-Commerce Customer Behavior Analytics
+
+
 📌 Overview
 This project analyzes e-commerce transaction data to optimize Express shipping infrastructure and strategically reallocate marketing budgets toward high-revenue demographic groups (young and middle-aged adults). By moving from raw, unstructured data to an interactive executive dashboard, this pipeline provides actionable intelligence for immediate business application.
 
